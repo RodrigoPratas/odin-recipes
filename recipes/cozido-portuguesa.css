@@ -1,0 +1,31 @@
+.tudo{
+    background-color: black;
+}
+
+.texto{
+    color: coral;
+}
+
+.imagemcozido{
+    width: min-content;
+    height: min-content;
+}
+
+.listaingredientes{
+    color: burlywood;
+}
+
+.requesitos{
+    color: burlywood;
+    font-weight: 700;
+    font-style: italic;
+}
+
+.titulo{
+    font-style: oblique;
+    font-size: larger;
+}
+
+.instruções{
+    color: orange;
+}
