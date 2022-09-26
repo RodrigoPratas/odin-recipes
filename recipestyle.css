@@ -1,0 +1,26 @@
+
+.tudo{
+    text-align: center;
+    background-color:black
+}
+
+.titulo{
+    color: aqua;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.texto1{
+    font-size: larger;
+    color: aquamarine;
+    font-size: large;
+}
+
+.lista{
+    text-align: center;
+}
+
+.myUl{
+    display: inline-block;
+    text-align: left;
+}
