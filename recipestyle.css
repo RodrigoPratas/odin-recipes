@@ -1,26 +1,40 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
 
-.tudo{
+.tudo {
+    height: 100vh;
     text-align: center;
-    background-color:black
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
 }
 
-.titulo{
+.titulo {
     color: aqua;
-    font-size: larger;
+    font-size: x-large;
     font-family: 'Courier New', Courier, monospace;
+    align-self: flex-start;
 }
 
-.texto1{
+.texto1 {
     font-size: larger;
     color: aquamarine;
     font-size: large;
 }
 
-.lista{
+.lista {
     text-align: center;
 }
 
-.myUl{
+.myUl {
     display: inline-block;
     text-align: left;
 }
