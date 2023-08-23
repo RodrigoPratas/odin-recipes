@@ -8,3 +8,15 @@ body {
     font-weight: bolder;
     color: black;
 }
+
+
+.requesitos {
+    color: blue;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+.instruções {
+    color: orange;
+}
