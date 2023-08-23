@@ -1,0 +1,10 @@
+body {
+    background-color: coral;
+}
+
+.titulo {
+    font-style: oblique;
+    font-size: larger;
+    font-weight: bolder;
+    color: black;
+}

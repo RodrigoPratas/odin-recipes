@@ -1,31 +1,35 @@
-.tudo{
+body {
     background-color: black;
 }
 
-.texto{
+.tudo {
+    background-color: black;
+}
+
+.texto {
     color: coral;
 }
 
-.imagemcozido{
+.imagemcozido {
     width: min-content;
     height: min-content;
 }
 
-.listaingredientes{
+.listaingredientes {
     color: burlywood;
 }
 
-.requesitos{
+.requesitos {
     color: burlywood;
     font-weight: 700;
     font-style: italic;
 }
 
-.titulo{
+.titulo {
     font-style: oblique;
     font-size: larger;
 }
 
-.instruções{
+.instruções {
     color: orange;
 }
